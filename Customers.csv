@@ -1,0 +1,16 @@
+﻿CustomerID,CustomerName,Email,Phone,CustomerType
+1,Aarav Sharma,aarav.sharma@example.com,9876501001,Retail
+2,Priya Patel,priya.patel@example.com,9876501002,Retail
+3,Rahul Deshmukh,rahul.d@example.com,9876501003,Retail
+4,Sneha Kulkarni,sneha.k@example.com,9876501004,Retail
+5,Imran Shaikh,imran.s@example.com,9876501005,Retail
+6,Meera Joshi,meera.j@example.com,9876501006,Wholesale
+7,Karan Mehta,karan.m@example.com,9876501007,Retail
+8,Ananya Rao,ananya.rao@example.com,9876501008,Retail
+9,Vikram Singh,vikram.s@example.com,9876501009,Wholesale
+10,Pooja Nair,pooja.n@example.com,9876501010,Retail
+11,Omkar Jadhav,omkar.j@example.com,9876501011,Retail
+12,Fatima Khan,fatima.k@example.com,9876501012,Retail
+13,Dev Shah,dev.shah@example.com,9876501013,Wholesale
+14,Riya More,riya.more@example.com,9876501014,Retail
+15,Sahil Verma,sahil.v@example.com,9876501015,Retail

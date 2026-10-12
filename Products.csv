@@ -1,0 +1,26 @@
+﻿ProductID,SKU,ProductName,CategoryID,UnitPrice,UnitCost,StockQty,ReorderLevel,IsActive
+1,BEV-001,Mineral Water 1L,1,20,10,100,20,1
+2,BEV-002,Orange Juice 1L,1,85,52,40,10,1
+3,BEV-003,Instant Coffee 100g,1,145,92,28,8,1
+4,BEV-004,Green Tea 25 Bags,1,120,74,25,7,1
+5,BEV-005,Cola 750ml,1,45,27,65,15,1
+6,FOOD-001,Basmati Rice 5kg,2,520,410,22,6,1
+7,FOOD-002,Wheat Flour 5kg,2,260,198,35,8,1
+8,FOOD-003,Pasta 500g,2,65,39,55,12,1
+9,FOOD-004,Breakfast Cereal 500g,2,185,118,18,5,1
+10,FOOD-005,Peanut Butter 340g,2,210,142,20,6,1
+11,CARE-001,Shampoo 180ml,3,165,102,24,7,1
+12,CARE-002,Toothpaste 150g,3,95,56,45,12,1
+13,CARE-003,Bath Soap 4-pack,3,110,68,38,10,1
+14,CARE-004,Hand Wash 250ml,3,90,54,32,9,1
+15,CARE-005,Face Moisturizer 100ml,3,240,155,12,5,1
+16,HOME-001,Laundry Detergent 1kg,4,155,99,30,8,1
+17,HOME-002,Dishwash Liquid 500ml,4,88,51,42,10,1
+18,HOME-003,Paper Towels 6-pack,4,175,112,16,5,1
+19,HOME-004,LED Bulb 9W,4,75,43,48,12,1
+20,HOME-005,Garbage Bags 30-pack,4,80,46,27,7,1
+21,DAIRY-001,Milk 1L,5,62,45,40,12,1
+22,DAIRY-002,Bread Loaf,5,40,26,25,8,1
+23,DAIRY-003,Cheese Slices 200g,5,145,95,18,6,1
+24,DAIRY-004,Butter 100g,5,58,37,30,9,1
+25,DAIRY-005,Eggs 12-pack,5,90,61,20,6,1
